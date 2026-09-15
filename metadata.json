@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Garden Adventure",
+  "description": "A 2D retro 16-bit pixel art platformer game featuring an apple hero, garden levels, surprise boxes, dynamic weather, and the Gigaworm boss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
